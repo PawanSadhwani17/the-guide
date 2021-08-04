@@ -1,0 +1,6 @@
+django
+requests
+wikipedia
+textblob
+gunicorn
+whitenoise
