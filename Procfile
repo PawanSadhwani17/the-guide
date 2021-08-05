@@ -1,1 +1,1 @@
-web gunicorn the_guide.wsgi:apllication --log-file -
+web gunicorn the_guide.wsgi:application --log-file -
